@@ -2,7 +2,7 @@ kjdfbvkfjdbvdfkjvbdjkvkjbdf this is conflicted change
 kjdfbvkfjdbvdfkjvbdjkvkjbdf this is conflicted change in story 4
 This is my sory1 change.
 this is my story2 change
-
+this is beta change
 
 
 this is my non conflicting change
